@@ -5,7 +5,7 @@ import Projects from "../components/Projects";
 import Experience from "../components/Experience";
 import Footer from "../components/Footer";
 import Skills from "../components/Skills";
-import Education from "../components/education";
+import Education from "../components/Education";
 const Home = () => {
   return (
     <main>
